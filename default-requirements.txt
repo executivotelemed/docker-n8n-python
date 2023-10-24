@@ -1,1 +1,11 @@
 fire
+python-amazon-paapi
+Faker
+numpy
+# doesn't support Python 3.10 yet
+pandas
+instaloader
+instapy
+pymongo
+mongoengine
+# naskpy
